@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi, my name is Thanushan Pirapakaran<br><br>💼 Currently looking for a position in Tech <br><br>🎓 Recent Computer Science Graduate at Brock Univerisity -- Graduating with a BSc. Honours in Computer Science in June 2024<br><br>💻 Currently learning Machine Learning and other AI technologies<br><br>💡 Forever and always a student of knowledge
+👋 Hi, I’m Thanushan Pirapakaran!
+
+💼 Currently seeking opportunities in the tech industry, with a strong passion for innovation, problem-solving, and building impactful software solutions.
+
+🎓 A recent Computer Science graduate from Brock University, where I earned a BSc. Honours in Computer Science (June 2024). My academic journey focused on full-stack development, database management, and software architecture, with hands-on experience in Agile Scrum methodologies and technical leadership.
+
+💻 Currently deepening my knowledge in Machine Learning and AI technologies, focusing on their applications in real-world solutions.
+
+🚀 I thrive on solving complex challenges and continuously seek new learning opportunities to stay ahead in the rapidly evolving tech landscape.
+
+💡 A lifelong learner who enjoys collaborating with teams to create meaningful technological solutions.
 
 
 ## 🌐 Socials:
