@@ -15,8 +15,6 @@ Most recently, I was a Software Engineer at Femme & Co, where I revamped the com
 
 💡 I’m curious by nature and like working with others to build technology that’s both creative and practical.
 
-GitHub: https://github.com/ThanushanP
-
 Portfolio: https://thanushanpirapakaran.netlify.app/
 
 
