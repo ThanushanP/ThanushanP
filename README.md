@@ -1,15 +1,23 @@
 # 💫 About Me:
-👋 Hi, I’m Thanushan Pirapakaran!
+| Full Stack Developer | Software Engineer |
 
-💼 Currently seeking opportunities in the tech industry, with a strong passion for innovation, problem-solving, and building impactful software solutions.
+💼 Actively looking for opportunities in the tech industry, with a strong interest in building useful, well-designed software that makes a difference.
 
-🎓 A recent Computer Science graduate from Brock University, where I earned a BSc. Honours in Computer Science (June 2024). My academic journey focused on full-stack development, database management, and software architecture, with hands-on experience in Agile Scrum methodologies and technical leadership.
+As a freelance Full Stack Software Engineer, I’ve worked with clients to design, build, and deliver web applications from the ground up. This included everything from database design and backend development to creating responsive frontends and deploying applications.
 
-💻 Currently deepening my knowledge in Machine Learning and AI technologies, focusing on their applications in real-world solutions.
+Most recently, I was a Software Engineer at Femme & Co, where I revamped the company’s website, improved site performance, and managed cloud-related infrastructure. I also handled ongoing maintenance and played a key role in developing a brand-new mobile app to expand the platform’s reach.
 
-🚀 I thrive on solving complex challenges and continuously seek new learning opportunities to stay ahead in the rapidly evolving tech landscape.
+🎓 A recent Computer Science graduate from Brock University, where I earned a BSc. Honours in Computer Science (June 2024). My studies centered on full-stack development, database management, and software architecture, along with practical experience in Agile Scrum and team leadership.
 
-💡 A lifelong learner who enjoys collaborating with teams to create meaningful technological solutions.
+💻 Right now, I’m diving deeper into Machine Learning and AI, with a special interest in how these technologies can be applied in education to improve learning outcomes and accessibility.
+
+🚀 I like working on tough problems and figuring out practical solutions, and I’m always looking for new projects that push me to grow as a developer.
+
+💡 I’m curious by nature and like working with others to build technology that’s both creative and practical.
+
+GitHub: https://github.com/ThanushanP
+
+Portfolio: https://thanushanpirapakaran.netlify.app/
 
 
 ## 🌐 Socials:
